@@ -1,7 +1,13 @@
 $( document ).ready(function() {
     // alert( "jquery works!!!!!" );
 
-var places = ["England", "France", "Italy", "Switzerland", "Italy", "Germany", "Greeece", "Austria", "Netherlands", "Belgium", "Denmark", "Sweden", "Ireland", "Spain", "Croatia", "Serbia"];
+var places = ["England", "France", "Italy", "Switzerland",
+"Italy", "Germany", "Greeece", "Austria", "Netherlands", "Belgium",
+"Denmark", "Sweden", "Ireland", "Spain", "Croatia", "Serbia",
+"Czeck Republic", "Hungary", "Turkey", "Israel", "Jordan", "Egypt",
+"Oahu", "Maui", "Panama", "Costa Rica", "Columbia", "Peru", "Chile",
+"Brazil", "Argentina", "Uraguay", "India", "China", "Japan", "Vietnam",
+"Malasia", "Thailand", "Laos", "Cambodia", "Indonesia", "South Korea"];
 
     // alert( "jquery works!!!!!" );
 
