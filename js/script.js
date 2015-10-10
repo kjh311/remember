@@ -2,7 +2,7 @@ $( document ).ready(function() {
     // alert( "jquery works!!!!!" );
 
 var places = ["England", "France", "Italy", "Switzerland",
-"Italy", "Germany", "Greeece", "Austria", "Netherlands", "Belgium",
+"Italy", "Germany", "Greece", "Austria", "Netherlands", "Belgium",
 "Denmark", "Sweden", "Ireland", "Spain", "Croatia", "Serbia",
 "Czeck Republic", "Hungary", "Turkey", "Israel", "Jordan", "Egypt",
 "Oahu", "Maui", "Panama", "Costa Rica", "Columbia", "Peru", "Chile",
